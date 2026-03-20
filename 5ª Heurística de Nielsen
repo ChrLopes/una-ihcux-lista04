@@ -1,0 +1,4 @@
+O try-catch é uma estrutura de controle de fluxo fundamental na programação utilizada para o tratamento de exceções,
+permitindo que um programa lide com erros inesperados de forma graciosa, sem travar ou interromper abruptamente sua execução.
+Ele se conecta à prevenção de erros ao identificar riscos no código, capturar falhas em tempo de execução e garantir que o sistema
+continue funcionando ou encerre com segurança,melhorando a experiência do usuário.
